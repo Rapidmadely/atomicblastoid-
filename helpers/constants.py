@@ -1,7 +1,7 @@
 class First:
     ALIVE = "`Still Working On Fire 🔥`"
     REPO = 'Click <a href="GitHub.com/NitricXd/XD-USERBOT">here</a> to open Usebot\'s GitHub page.'
-    CREATOR = 'I was created by my master <a href="https://github.com/NitricXd">Nitric</a> on a rainy day.'
+    CREATOR = 'I was created by my master <a href="https://github.com/atomicblastoid">Nitric</a> on a rainy day.'
 
 
 class Weebify:
