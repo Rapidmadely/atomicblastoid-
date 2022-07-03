@@ -458,6 +458,6 @@ if bot50:
 
 idle()
 
-print("🎉 Successfully Deployed 🎉 @Xd_Nitric")
-print("Enjoy! Do visit @XCodeSupport")
+print("🎉 Successfully Deployed 🎉 @atomicblastoid")
+print("Enjoy! Do visit @@Alonequotes6")
 
